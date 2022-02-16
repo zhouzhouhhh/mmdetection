@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="resources/mmdet-logo.png" width="600"/>
   <div>&nbsp;</div>
@@ -320,3 +321,7 @@ If you use this toolbox or benchmark in your research, please cite this project.
 - [MMHuman3D](https://github.com/open-mmlab/mmhuman3d): OpenMMLab 3D human parametric model toolbox and benchmark.
 - [MMSelfSup](https://github.com/open-mmlab/mmselfsup): OpenMMLab self-supervised learning toolbox and benchmark.
 - [MMRazor](https://github.com/open-mmlab/mmrazor): OpenMMLab Model Compression Toolbox and Benchmark.
+=======
+# cell_segm_mmdet
+cell_segm_mmdet
+>>>>>>> 0d9e8662f8ce4d2ba4d6a5e8e8c475c542668954
